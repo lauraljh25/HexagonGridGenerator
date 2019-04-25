@@ -1,0 +1,15 @@
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\bin\Debug\hexagonGridGenerator.exe.config
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\bin\Debug\hexagonGridGenerator.exe
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\bin\Debug\hexagonGridGenerator.pdb
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\hexagonGridGenerator.csprojAssemblyReference.cache
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\MainWindow.g.cs
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\App.g.cs
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\hexagonGridGenerator_MarkupCompile.cache
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\hexagonGridGenerator_MarkupCompile.lref
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\MainWindow.baml
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\hexagonGridGenerator.g.resources
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\hexagonGridGenerator.Properties.Resources.resources
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\hexagonGridGenerator.csproj.GenerateResource.cache
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\hexagonGridGenerator.csproj.CoreCompileInputs.cache
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\hexagonGridGenerator.exe
+C:\Users\laura\source\repos\hexagonGridGenerator\hexagonGridGenerator\obj\Debug\hexagonGridGenerator.pdb

@@ -1,0 +1,22 @@
+﻿<Window x:Class="hexagonGridGenerator.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:hexagonGridGenerator"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <ScrollViewer HorizontalAlignment="Left"  HorizontalScrollBarVisibility="Visible" Height="360" Margin="92,27,0,0" VerticalAlignment="Top" Width="669">
+            <Canvas x:Name="canvasHexagonGrid" Height="360" Width="669" RenderTransformOrigin="0.5,0.5" Background="Black">
+            </Canvas>
+        </ScrollViewer>
+        <TextBox x:Name="rowsTxt" HorizontalAlignment="Left" Height="26" Margin="10,27,0,0" TextWrapping="Wrap" Text="Rows" VerticalAlignment="Top" Width="61"/>
+        <TextBox x:Name="columnTxt" HorizontalAlignment="Left" Height="26" Margin="10,70,0,0" TextWrapping="Wrap" Text="columns" VerticalAlignment="Top" Width="61"/>
+        <Button Content="Generate" HorizontalAlignment="Left" Margin="10,120,0,0" VerticalAlignment="Top" Width="61" Height="24" Click="Button_Click"/>
+        <TextBlock x:Name="descriptionTxt" HorizontalAlignment="Left" Margin="10,234,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="75" Width="77"><Run Text="type in number of hexagon rows "/><Run Text="and columns"/></TextBlock>
+        <TextBlock x:Name="errorTxt" HorizontalAlignment="Left" Height="72" Margin="10,328,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="72"/>
+
+
+    </Grid>
+</Window>
